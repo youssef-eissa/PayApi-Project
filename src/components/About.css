@@ -1,0 +1,51 @@
+:root{
+    --font-color:#36536B;
+    --p-color:#6C8294
+}
+
+.head{
+    font-size: 54px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1;
+    color: var(--font-color);
+}
+.cirimg{
+    top: -680px;
+    right: -200px;
+}
+.textabout h1{
+    color: var(--font-color);
+    font-size: 32px;
+}
+.textabout p{
+    color: var(--p-color);
+    line-height: 2;
+    font-size: 15px;
+}
+.imageh{
+    position: relative;
+}
+.imagee{
+    transform:scaleX(1.1);
+}
+.cirimgg{
+    top: -150px;
+    left: -550px;
+}
+.stat span{
+    font-size: 16px;
+    color: var(--p-color);
+}
+.stat h1{
+    font-size: 56px;
+    color: #BA4270;
+    font-family: 'Open Sans', sans-serif;
+}
+.stat {
+    border-width: 1px;
+    border-color: #979797 transparent #979797;
+    border-style: solid;
+}
+.plus{
+    font-size: 56px;
+}

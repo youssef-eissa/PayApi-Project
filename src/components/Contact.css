@@ -1,0 +1,85 @@
+:root {
+    --font-color: #36536B;
+    --p-color: #6C8294
+}
+.contact h1{
+    font-family: 'Open Sans', sans-serif;
+    color: var(--font-color);
+    font-size: 56px;
+}
+.contactForm input[type='text'],
+.contactForm textarea{
+    border-width: 1px; 
+    border-style: solid;
+    border-color: transparent transparent #979797;
+    background-color: transparent;
+color: var(--font-color);
+font-size: 15px;
+
+}
+
+.contactForm input[name='name'].red{
+    border-color: transparent transparent red;
+}
+.contactForm input[name='email'].red {
+    border-color: transparent transparent red;
+}
+.contactForm input:focus,
+.contactForm textarea:focus{
+    outline: none;
+}
+.contactForm textarea{
+    resize: none;
+}
+
+
+.check label{
+    font-size: 15px;
+    color: var(--font-color);
+    user-select: none;
+    cursor: pointer;
+}
+.check input{
+    width: 24px;
+    height: 24px;
+    accent-color: #BA4270;
+    position: relative;
+    cursor: pointer;
+}
+.check input::after{
+    position: absolute;
+    content: '';
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #979797;
+}
+
+.check input:checked:after{
+    display: none;
+}
+
+.contactForm input[type='submit']{
+    color: var(--font-color);
+    font-size: 15px;
+    border: 1px solid var(--font-color);
+border-radius: 20px;
+transition: 0.3s;
+}
+.contactForm input[type='submit']:hover{
+    color: white;
+    background-color: var(--font-color);
+}
+.contactRight .header{
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    color: var(--font-color);
+}
+.error-text{
+    font-size: 11px;
+    color: red;
+}
+.circleee{
+   top: -700px;
+   right: -350px;
+}

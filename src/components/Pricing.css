@@ -1,0 +1,53 @@
+.circlee{
+right: -1000px;
+top: -650px;
+}
+.titlee h1{
+font-family: 'Open Sans', sans-serif;
+font-size: 56px;
+color: #36536B;
+}
+.plan{
+    font-size: 32px;
+    color: #BA4270;
+font-family: 'Open Sans', sans-serif;
+}
+.plans p{
+    color: #6C8294;
+    font-size: 15px;
+}
+.planprice{
+    color: #36536B;
+font-family: 'Open Sans', sans-serif;
+font-weight: bold;
+font-size: 56px;
+}
+.plans ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+border-width: 1px;
+    border-style: solid;
+    border-color: #979797 transparent #979797;}
+
+.plans ul li .checked {
+    color: #36536B;
+    font-size: 16px;
+}
+.plans ul li div {
+    color: rgba(54, 83, 107, 50%);
+    font-size: 16px;
+}
+
+.request{
+    border: 1px solid #36536B;
+    color: #36536B;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.request:hover{
+    color: white;
+    background-color: #36536B;
+    border: 1px solid white;
+}

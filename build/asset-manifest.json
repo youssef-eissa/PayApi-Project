@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/PayApi-Project/static/css/main.0925130d.css",
+    "main.js": "/PayApi-Project/static/js/main.9924b043.js",
+    "static/js/787.b0466e20.chunk.js": "/PayApi-Project/static/js/787.b0466e20.chunk.js",
+    "static/media/image-team-members.jpg": "/PayApi-Project/static/media/image-team-members.f4078f89575d2d602d8c.jpg",
+    "static/media/illustration-simple-ui.svg": "/PayApi-Project/static/media/illustration-simple-ui.dfb875ac4a8d13d9f71eaa43d6cfcc5c.svg",
+    "static/media/logow.svg": "/PayApi-Project/static/media/logow.341ba75b547bea0359251889bdb0f09c.svg",
+    "static/media/microw.svg": "/PayApi-Project/static/media/microw.b2d30f0005602e13d38cd8f742ed6309.svg",
+    "static/media/logo.svg": "/PayApi-Project/static/media/logo.23aa4a684cffc134b235486209dc35a0.svg",
+    "static/media/illustration-phone-mockup.svg": "/PayApi-Project/static/media/illustration-phone-mockup.46990b5371664ee65fb5f6dcc32ba29b.svg",
+    "static/media/microsoft.svg": "/PayApi-Project/static/media/microsoft.9eb561c5c9db2c4a3e22abeeb96cccbc.svg",
+    "static/media/googlew.svg": "/PayApi-Project/static/media/googlew.c989a26182d7eef27b16a5c73fb380b7.svg",
+    "static/media/hewlett-packard.svg": "/PayApi-Project/static/media/hewlett-packard.9b905502ec1dc960b4325464e904d7db.svg",
+    "static/media/nividaw.svg": "/PayApi-Project/static/media/nividaw.a4f341e566b823d1f7d6a5e9fbb2a2a3.svg",
+    "static/media/google.svg": "/PayApi-Project/static/media/google.94879ccff6c11fd5c81f693ff19222ac.svg",
+    "static/media/oraclew.svg": "/PayApi-Project/static/media/oraclew.1eb9be08609689590ea5201eab08cda5.svg",
+    "static/media/icon-personal-finances.svg": "/PayApi-Project/static/media/icon-personal-finances.cdda9f8238e0f85df2a4ca6a91dea61c.svg",
+    "static/media/nvidia.svg": "/PayApi-Project/static/media/nvidia.10f5c5b8aa4cb07cf423e7442b2bca31.svg",
+    "static/media/illustration-easy-to-implement.svg": "/PayApi-Project/static/media/illustration-easy-to-implement.c3a3171cd344b84c6d8f2f83f3d32caf.svg",
+    "static/media/icon-banking-and-coverage.svg": "/PayApi-Project/static/media/icon-banking-and-coverage.c19127eb69fba64259a6f9c7f8b6401b.svg",
+    "static/media/oracle.svg": "/PayApi-Project/static/media/oracle.dde8d74856f2120cd0089350c12bc474.svg",
+    "static/media/teslaw.svg": "/PayApi-Project/static/media/teslaw.085995c68aa601252fc61634cf33df96.svg",
+    "index.html": "/PayApi-Project/index.html",
+    "static/media/tesla.svg": "/PayApi-Project/static/media/tesla.251aa1055623255df992f14be109a5d5.svg",
+    "static/media/icon-consumer-payments.svg": "/PayApi-Project/static/media/icon-consumer-payments.329b6c98fe30154b3985866bf68d0b9f.svg",
+    "static/media/twitter.svg": "/PayApi-Project/static/media/twitter.cf07a6dec7365340fc7bde1f11231b35.svg",
+    "static/media/linkedin.svg": "/PayApi-Project/static/media/linkedin.27f69bed5cf4d882a491222f16652e6e.svg",
+    "static/media/facebook.svg": "/PayApi-Project/static/media/facebook.f37142b6677d786fbd43b109d00b2508.svg",
+    "static/media/bg-pattern-circle.svg": "/PayApi-Project/static/media/bg-pattern-circle.2f3a4c70060369763a5531031e258e21.svg",
+    "main.0925130d.css.map": "/PayApi-Project/static/css/main.0925130d.css.map",
+    "main.9924b043.js.map": "/PayApi-Project/static/js/main.9924b043.js.map",
+    "787.b0466e20.chunk.js.map": "/PayApi-Project/static/js/787.b0466e20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0925130d.css",
+    "static/js/main.9924b043.js"
+  ]
+}

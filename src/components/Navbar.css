@@ -1,0 +1,22 @@
+ul{
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+}
+ul .linkk{
+    color: #36536B;
+}
+.demo{
+    font-size: 15px;
+    color: #FBFCFE;
+    background-color: #BA4270;
+    border-radius: 20px;
+    cursor: pointer;
+    z-index:3;
+}
+html{
+    background-color: #F2F2F2;
+}
+.body{
+    background-color: #F2F2F2;
+}

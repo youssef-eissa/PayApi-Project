@@ -1,0 +1,16 @@
+ footer {
+    background-color: #1B262F;
+}
+
+ footer .linkkk {
+    color: #6C8294;
+    transition: 0.3s;
+}
+
+footer .linkkk:hover {
+    color: #FBFCFE;
+}
+.cbg{
+    right:-250px;
+    top: -50px;
+}

@@ -1,0 +1,104 @@
+.left .text{
+    font-size: 72px;
+font-family: 'Open Sans', sans-serif;
+line-height: 1;
+}
+.left{
+    color: #6C8294;
+}
+
+.home {
+    position: relative;
+}
+.home p,
+.home h1,
+.home .icons span{
+    color: #36536B;
+}
+.home h1{
+
+font-family: 'Open Sans', sans-serif;
+}
+
+
+.circlebg{
+    position: absolute;
+    top: -300px;
+    right: -500px;
+}
+.home .mob{
+    z-index: 9;
+}
+.home form input:nth-child(1){
+    font-size: 15px;
+    border: none;
+    border-radius: 30px;
+    color: #6C8294;
+}
+.home form input:nth-child(1):focus{
+    outline: none;
+}
+.home form input:nth-child(2) {
+    border: none;
+    transform: translateX(-40px);
+    border-radius: 30px;
+}
+
+.overlayTextLeft h1{
+    font-size: 48px;
+font-family: 'Open Sans', sans-serif;
+color: #FBFCFE;
+}
+.overlayTextLeft p{
+    color: #FBFCFE;
+    font-size: 15px;
+    line-height: 2;
+}
+
+
+.black{
+    transform: translateX(-36px);
+}
+.black .overlay{
+    background-color: #1B262F;
+
+}
+.circlebg2{
+    left: -250px;
+    top: -500px;
+}
+.overlayTextLeft .overlayAbout{
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+.overlayTextLeft .overlayAbout:hover{
+    background-color: white;
+    color: #1B262F;
+}
+.codeText h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+}
+.codeText p{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 2;
+}
+.icons img{
+    width: 106px;
+    height: 106px;
+}
+
+.icons span{
+ font-size: 18px;
+}
+.icons p {
+    font-size: 15px;
+}
+.img-circle{
+    right: -250px;
+
+}
+
