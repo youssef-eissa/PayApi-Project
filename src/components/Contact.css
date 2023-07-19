@@ -17,6 +17,11 @@ color: var(--font-color);
 font-size: 15px;
 
 }
+.contactForm input::placeholder,
+.contactForm textarea::placeholder{
+    opacity: 0.5;
+}
+
 
 .contactForm input[name='name'].red{
     border-color: transparent transparent red;
