@@ -14,3 +14,10 @@ footer .linkkk:hover {
     right:-250px;
     top: -50px;
 }
+@media (max-width:767px) {
+    .cbg{
+right: 0px;
+    top: 121px;
+}
+}
+

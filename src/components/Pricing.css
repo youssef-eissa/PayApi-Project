@@ -51,3 +51,10 @@ border-width: 1px;
     background-color: #36536B;
     border: 1px solid white;
 }
+
+@media (max-width:767px) {
+    .circlee {
+            right: -150px;
+            top: -650px;
+        }
+}

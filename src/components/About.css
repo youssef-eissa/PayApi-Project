@@ -41,11 +41,28 @@
     color: #BA4270;
     font-family: 'Open Sans', sans-serif;
 }
-.stat {
+.stats .stat {
     border-width: 1px;
     border-color: #979797 transparent #979797;
     border-style: solid;
 }
 .plus{
     font-size: 56px;
+}
+@media (max-width:767px) {
+    .head {
+            font-size: 32px;
+            font-family: 'Open Sans', sans-serif;
+            line-height: 1.6;
+            color: var(--font-color);
+        }
+        .stats .stat:nth-child(2){
+            border: none;
+        }
+        .stats .stat:nth-child(1){
+            border-bottom: none;
+        }
+        .stats .stat:nth-child(3){
+            border-top: none;
+        }
 }
