@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PayApi-Project/static/css/main.8360a39d.css",
+    "main.css": "/PayApi-Project/static/css/main.daf4bb0d.css",
     "main.js": "/PayApi-Project/static/js/main.ece4b4c3.js",
     "static/js/787.b0466e20.chunk.js": "/PayApi-Project/static/js/787.b0466e20.chunk.js",
     "static/media/image-team-members.jpg": "/PayApi-Project/static/media/image-team-members.f4078f89575d2d602d8c.jpg",
@@ -30,12 +30,12 @@
     "static/media/bg-pattern-circle.svg": "/PayApi-Project/static/media/bg-pattern-circle.2f3a4c70060369763a5531031e258e21.svg",
     "static/media/close.svg": "/PayApi-Project/static/media/close.825df35a3287696cdde2458e37670931.svg",
     "static/media/menu.svg": "/PayApi-Project/static/media/menu.5062cf20d68a5a275c8262ea469e1798.svg",
-    "main.8360a39d.css.map": "/PayApi-Project/static/css/main.8360a39d.css.map",
+    "main.daf4bb0d.css.map": "/PayApi-Project/static/css/main.daf4bb0d.css.map",
     "main.ece4b4c3.js.map": "/PayApi-Project/static/js/main.ece4b4c3.js.map",
     "787.b0466e20.chunk.js.map": "/PayApi-Project/static/js/787.b0466e20.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8360a39d.css",
+    "static/css/main.daf4bb0d.css",
     "static/js/main.ece4b4c3.js"
   ]
 }
