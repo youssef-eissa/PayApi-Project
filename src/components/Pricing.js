@@ -101,10 +101,10 @@ function Pricing() {
                         </div>
                     </div>
                     <div className='col-md-4 text-center text-md-start'>
-                        <h1 className='plan'>Basic Plan</h1>
+                        <h1 className='plan'>Premium Plan</h1>
                         <FontAwesomeIcon icon="fa-solid fa-user-check" />
-                        <p>Launch your project with unlimited requests and no contractual minimums  </p>
-                        <div className='planprice '>$249.00</div>
+                        <p>Get tailored solutions, volume pricing, and dedicated support for your team   </p>
+                        <div className='planprice '>$499.00</div>
                         <ul className='col-md-12 py-4 '>
                             <li className='d-flex align-items-center mb-md-2 justify-content-between'>
                                 <span className='col-md-1 col-4 text-md-start text-end' > <FontAwesomeIcon icon={faCheck} style={{color:"#BA4270"}} /> </span>
